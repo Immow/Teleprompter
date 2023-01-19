@@ -1,0 +1,3 @@
+- scroll the text down.
+- resize text so it fits the window
+- set font-size from window dimensons
